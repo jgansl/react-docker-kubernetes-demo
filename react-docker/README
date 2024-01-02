@@ -1,0 +1,3 @@
+docker push 0riginall1/react-docker:latest
+
+minikube ip  -  https://192.168.49.2:31000/
